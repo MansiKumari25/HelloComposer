@@ -1,0 +1,14 @@
+{
+    "name": "testcompose/hello",
+    "description": "Greetings to all",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mansi Kumari",
+            "email": "mansikumari@cedcoss.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
