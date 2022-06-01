@@ -9,6 +9,11 @@
             "email": "mansikumari@cedcoss.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Hello\\" : "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
